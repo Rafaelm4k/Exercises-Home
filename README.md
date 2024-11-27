@@ -22,6 +22,8 @@ if the cost exceeds the limit.
   <img src="./img/example.png" alt="Size Limit CLI" width="738">
 </p>
 
+<h1>ESTO LO ESCRIBIÓ UN RUMANO<h1>
+
 With **[GitHub action]** Size Limit will post bundle size changes as a comment
 in pull request discussion.
 
